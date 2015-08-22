@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>25159B81-1E1D-4685-9E2F-AA780A573756</string>
+	<key>IDESourceControlProjectName</key>
+	<string>LocationTest</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>7E416178CC60C64463672445F5C5070DBDE272E4</key>
+		<string>https://github.com/CEITdev/locationTest</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>LocationTest.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>7E416178CC60C64463672445F5C5070DBDE272E4</key>
+		<string>..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/CEITdev/locationTest</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>7E416178CC60C64463672445F5C5070DBDE272E4</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>7E416178CC60C64463672445F5C5070DBDE272E4</string>
+			<key>IDESourceControlWCCName</key>
+			<string>locationTest</string>
+		</dict>
+	</array>
+</dict>
+</plist>
